@@ -10,7 +10,7 @@ Landing Page profissional desenvolvida para apresentar a trajetória acadêmica,
 
 ### 📱 Versão Mobile
 
-[!Portifólio](imagens/capa-mobile-hina.jpeg)
+![Portifólio](imagens/capa-mobile-hina.jpeg)
 
 ---
 
